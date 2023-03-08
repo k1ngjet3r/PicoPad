@@ -1,5 +1,7 @@
 # PicoPad Macropad
 
+![PicoPad_9](https://user-images.githubusercontent.com/43425262/223685391-7d864d46-0484-43e5-ab71-be16c9c71b6b.jpg)
+
 Firmware for PicoPad-9. To use the code I wrote for the PicoPad, simply download a copy of `code.py` under src/PicoPad_9/ directory and place into the root directory of CIRCUITPY.
 
 ## Dependency
@@ -19,3 +21,7 @@ Firmware for PicoPad-9. To use the code I wrote for the PicoPad, simply download
 
 * RGB light stript:
   * [RGB/Underglow/NeoPixel](http://kmkfw.io/docs/rgb)
+  
+  
+## 3D Model:
+  * [Printable](https://www.printables.com/model/417351-picopad-9-macropad)
