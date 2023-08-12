@@ -145,7 +145,7 @@ keyboard.modules = [my_layer, encoders]
 
 encoders.map = [
     ((KC.VOLU, KC.VOLD, KC.MUTE),), # default
-    ((zoom_out, zoom_in, zoom_rest),), # Layer 1
+    ((zoom_in, zoom_out, zoom_rest),), # Layer 1
     ((KC.PGUP, KC.PGDOWN, KC.NO),), # Layer 2
     ((KC.VOLU, KC.VOLD, KC.MUTE),), # Layer 3
 ]
