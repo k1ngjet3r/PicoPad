@@ -104,6 +104,7 @@ encoders.map = [((KC.VOLU, KC.VOLD, KC.MUTE),)]
 rgb_ext = RGB(
         pixel_pin=WS2812_PIN,
         num_pixels=WS2812_LED_COUNT,
+        rgb_order=(1, 0, 2),  # GRB WS2812
         animation_speed=1,
         animation_mode=AnimationModes.RAINBOW,
         refresh_rate=60,
